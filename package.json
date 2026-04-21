@@ -1,0 +1,27 @@
+{
+  "name": "color-palette-cli",
+  "version": "1.0.0",
+  "description": "Terminal tool that generates accessible color palettes from a hex seed with WCAG scores.",
+  "main": "index.js",
+  "bin": {
+    "color-palette": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "color",
+    "palette",
+    "cli",
+    "accessibility",
+    "wcag",
+    "design-tools",
+    "terminal"
+  ],
+  "author": "Ahmar Hussain (Stackaura)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "chroma-js": "^2.4.2"
+  }
+}

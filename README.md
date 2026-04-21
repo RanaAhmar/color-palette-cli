@@ -7,6 +7,7 @@
 A high-performance terminal tool that generates beautiful, accessible color palettes from a single hex seed. Built for developers and designers who value WCAG compliance and professional design systems.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -24,4 +25,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
